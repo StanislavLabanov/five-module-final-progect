@@ -1,0 +1,1 @@
+export const initialState = [{ name: 'title', value: '' }, { name: 'text', value: '' }]
